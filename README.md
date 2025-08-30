@@ -5,8 +5,7 @@ This project uses **Machine Learning** to predict loan defaults and visualize in
 ---
 
 ## 📂 Google Colab Notebook
-🔗 [Open in Colab]https://colab.research.google.com/drive/1KXyNP_Jw79F-mh34J0iL5VqYYSI1nhwM#scrollTo=e3ac4337-fdcd-4b64-9525-efa7d67df702
-
+🔗 [Open in Colab] https://github.com/Gogathebrains4/loan_predicton_application/blob/main/20250804_Wisdom_Ogbeche_Axia_Project.ipynb
 ---
 
 ## 📊 Power BI Dashboard
