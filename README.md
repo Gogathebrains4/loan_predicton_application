@@ -1,2 +1,45 @@
-# loan_predicton_application
-This project uses machine learning to predict loan defaults. It covers data preprocessing, feature selection (Variance Threshold, RFE, SHAP), class imbalance handling with SMOTE, model training/evaluation, and SHAP explainability. Results are visualized in Power BI and deployed interactively with Streamlit.
+# 🏦 Loan Default Prediction Project
+
+This project uses **Machine Learning** to predict loan defaults and visualize insights through **Power BI** and **Streamlit**.
+
+---
+
+## 📂 Google Colab Notebook
+🔗 [Open in Colab]https://colab.research.google.com/drive/1KXyNP_Jw79F-mh34J0iL5VqYYSI1nhwM#scrollTo=e3ac4337-fdcd-4b64-9525-efa7d67df702
+
+---
+
+## 📊 Power BI Dashboard
+Here’s a preview of the interactive dashboard:
+
+![Power BI Dashboard Screenshot](Power Bi Dashboard.png)  
+
+🔗 [View Full Power BI Dashboard](20250821_Wisdom_Ogbeche_PowerBi_ Axia_Project.pbix)
+
+---
+
+## 🌐 Streamlit App
+Here’s a preview of the deployed web app:
+
+![Streamlit App Screenshot](Streamlit Layout.png)  
+
+
+🔗 [Launch Streamlit App](http://localhost:8501/)
+
+---
+
+## ⚙️ Features
+- Data preprocessing and feature engineering  
+- SMOTE for class balancing  
+- Model training and evaluation  
+- SHAP explainability for feature importance  
+- Visualization in Power BI  
+- Deployment with Streamlit  
+
+---
+
+## 📜 How to Run Locally
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+   cd YOUR-REPO-NAME
