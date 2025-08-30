@@ -24,7 +24,7 @@ Here’s a preview of the deployed web app:
 ![Streamlit App Screenshot](https://github.com/Gogathebrains4/loan_predicton_application/blob/main/Streamlit%20Layout.png)  
 
 
-🔗 [Launch Streamlit App] http://localhost:8502/
+🔗 [Launch Streamlit App] https://github.com/Gogathebrains4/loan_predicton_application/blob/main/20250816_Wisdom_Ogbeche_Axia.py
 
 ---
 
