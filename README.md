@@ -12,7 +12,7 @@ This project uses **Machine Learning** to predict loan defaults and visualize in
 ## 📊 Power BI Dashboard
 Here’s a preview of the interactive dashboard:
 
-![Power BI Dashboard Screenshot](Power Bi Dashboard.png)  
+![Power BI Dashboard Screenshot](https://github.com/Gogathebrains4/loan_predicton_application/blob/main/Power%20Bi%20Dashboard.png)  
 
 🔗 [View Full Power BI Dashboard](https://github.com/Gogathebrains4/loan_predicton_application/blob/main/20250821_Wisdom_Ogbeche_PowerBi_%20Axia_Project.pbix)
 
