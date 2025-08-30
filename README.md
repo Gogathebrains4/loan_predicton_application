@@ -21,7 +21,7 @@ Here’s a preview of the interactive dashboard:
 ## 🌐 Streamlit App
 Here’s a preview of the deployed web app:
 
-![Streamlit App Screenshot](Streamlit Layout.png)  
+![Streamlit App Screenshot](https://github.com/Gogathebrains4/loan_predicton_application/blob/main/Streamlit%20Layout.png)  
 
 
 🔗 [Launch Streamlit App] http://localhost:8502/
