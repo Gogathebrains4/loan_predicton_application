@@ -14,7 +14,7 @@ Here’s a preview of the interactive dashboard:
 
 ![Power BI Dashboard Screenshot](Power Bi Dashboard.png)  
 
-🔗 [View Full Power BI Dashboard](20250821_Wisdom_Ogbeche_PowerBi_ Axia_Project.pbix)
+🔗 [View Full Power BI Dashboard](https://github.com/Gogathebrains4/loan_predicton_application/blob/main/20250821_Wisdom_Ogbeche_PowerBi_%20Axia_Project.pbix)
 
 ---
 
@@ -24,7 +24,7 @@ Here’s a preview of the deployed web app:
 ![Streamlit App Screenshot](Streamlit Layout.png)  
 
 
-🔗 [Launch Streamlit App](http://localhost:8501/)
+🔗 [Launch Streamlit App] http://localhost:8502/
 
 ---
 
